@@ -2,14 +2,14 @@
 
 ### One App to Prevent, Predict & Resolve Cyber Threats
 
-## 📌 Project Overview
+##  Project Overview
 
 SENTINEL AI is an all-in-one AI-powered cybersecurity application designed to monitor, predict, and automatically resolve cyber threats. The project aims to simplify digital security by integrating multiple security functionalities into a single, user-friendly platform.
 
 With cyber threats such as phishing attacks, ransomware, malware, and identity theft increasing every year, SENTINEL AI provides smart protection through AI-driven threat detection and automated response mechanisms.
 
 
-## 🚨 Problem Statement
+## Problem Statement
 
 * Cyber-attacks are increasing rapidly worldwide.
 * Users often lack awareness and proper security tools, leading to personal and financial losses.
@@ -17,7 +17,7 @@ With cyber threats such as phishing attacks, ransomware, malware, and identity t
 * There is a need for a single, intelligent platform to safeguard users' data and privacy.
 
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 SENTINEL AI offers an integrated cybersecurity platform that:
 
@@ -27,18 +27,18 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 * Continuously learns from evolving threat databases.
 
 
-## ✨ Key Features
+## Key Features
 
-* 🔍 Real-time Threat Detection
-* 🔐 Secure Password Vault & Two-Factor Authentication (2FA) Manager
-* 🚫 Phishing and Malware Blocking
-* ⚠️ Data Leak Alerts
-* 🔄 Auto-Patching and Remediation
-* 🤖 AI-Based Risk Prediction
-* 📊 Security Monitoring Dashboard
+*  Real-time Threat Detection
+*  Secure Password Vault & Two-Factor Authentication (2FA) Manager
+*  Phishing and Malware Blocking
+*  Data Leak Alerts
+*  Auto-Patching and Remediation
+*  AI-Based Risk Prediction
+*  Security Monitoring Dashboard
 
 
-## ⚙️ Methodology
+##  Methodology
 
 1. Data Collection from user inputs
 2. AI-Based Threat Analysis
@@ -48,7 +48,7 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 6. Automated Response and Protection
 
 
-## 🧠 AI/ML Approach
+##  AI/ML Approach
 
 * Anomaly Detection
 * Behavioral Analysis
@@ -56,7 +56,7 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 * Auto-Remediation Workflows
 
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 
@@ -75,7 +75,7 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 * Antivirus APIs
 
 
-## 🎯 Target Users
+## Target Users
 
 * Students
 * Professionals
@@ -83,7 +83,7 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 * Startups
 
 
-## ⭐ Unique Selling Proposition (USP)
+##  Unique Selling Proposition (USP)
 
 * All-in-one cybersecurity solution
 * AI-powered prediction and auto-response
@@ -91,7 +91,7 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 * Continuous learning and updates
 * Cost-effective compared to multiple standalone tools
 
-## 📈 Impact & Benefits
+##  Impact & Benefits
 
 * Reduces cyber fraud and identity theft.
 * Improves cybersecurity awareness.
@@ -99,14 +99,14 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 * Enhances digital safety and privacy.
 * Makes cybersecurity accessible to non-technical users.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * Project Presentation (PPT)
 * Dashboard Screenshots
 * Project Documentation
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Develop a fully functional mobile application.
 * Integrate real-time monitoring capabilities.
@@ -117,7 +117,7 @@ SENTINEL AI offers an integrated cybersecurity platform that:
 
 
 
-## 📚 References
+## References
 
 * OWASP Cybersecurity Guidelines
 * NIST Cybersecurity Framework
